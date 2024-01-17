@@ -98,13 +98,13 @@ select#country option {
   padding-right: 20px;
 }
 .btn-primary {
-  background: #FF5400;
+  background: #ff5400;
   color: #fff;
   padding: 11px 35px 11px 35px;
   font-size: 18px;
   font-weight: 600;
   cursor: pointer;
-  border: 0px solid #FF5400;
+  border: 0px solid #ff5400;
   border-radius: 8px;
 }
 .popular-tours {
@@ -358,7 +358,7 @@ select#country option {
   margin: 50px 0;
 }
 
-.Perfect-Place{
+.Perfect-Place {
   font-size: 40px;
   font-weight: 800;
   color: #131318;
@@ -367,7 +367,7 @@ select#country option {
 .tours-descriptionss {
   font-size: 16px;
   font-weight: 400;
-  color: #5A5A5D;
+  color: #5a5a5d;
   line-height: 23px;
 }
 
@@ -377,12 +377,12 @@ select#country option {
 }
 
 .newsletter-all {
-  border: 1px solid #FF5400;
+  border: 1px solid #ff5400;
   border-radius: 8px;
 }
 
 .news-content {
-  border-bottom: 1px solid #1313181A;
+  border-bottom: 1px solid #1313181a;
 }
 
 .news-content h1 {
@@ -395,7 +395,7 @@ select#country option {
   display: flex;
   flex-direction: column;
   margin-top: 30px;
-  color: #1313180D;
+  color: #1313180d;
 }
 
 .news-name {
@@ -404,7 +404,7 @@ select#country option {
 
 footer {
   margin-top: 50px;
-  background: #1313180D;
+  background: #1313180d;
   height: 502px;
   display: flex;
   justify-content: center;
@@ -429,13 +429,13 @@ footer {
   color: #131318;
 }
 
-.main-content h2{
+.main-content h2 {
   font-size: 32px;
   font-weight: 800;
 }
 
 .main-content span {
-  color: #FF5400;
+  color: #ff5400;
 }
 
 .social-icons {
@@ -443,14 +443,13 @@ footer {
   display: flex;
   justify-content: center;
   gap: 20px;
-  border-bottom: 1px solid #1313180D;
+  border-bottom: 1px solid #1313180d;
   padding-bottom: 20px;
 }
 
 .copy {
   text-align: center;
 }
-
 
 @media screen and (max-width: 576px) {
   nav {

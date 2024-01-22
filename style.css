@@ -61,7 +61,7 @@ nav li:active {
 }
 .explore-content {
   text-align: center;
-  background-image: url(/Images/Rectangle-1.png);
+  background-image: url(./Images/Rectangle-1.png);
   background-position: center center;
   background-size: cover;
   background-blend-mode: overlay;
